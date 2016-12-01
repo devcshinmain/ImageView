@@ -8,6 +8,8 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
+    int a;
+
     ImageView img;
     Button btn_australia, btn_belgium, btn_canada, btn_korea;
 
